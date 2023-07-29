@@ -1,5 +1,5 @@
 # python_M6_AE6_grupal
-Tarea python_M6_AE6_grupal
+Tarea python_M6_AE6_grupal: Sara Corvalan, Guillermo Ondarza, Romina Velasco
 
 Como se aprecia, creamos 3 grupos:
 •	grupo6
