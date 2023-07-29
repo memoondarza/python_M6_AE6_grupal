@@ -1,5 +1,10 @@
 # python_M6_AE6_grupal
 Tarea python_M6_AE6_grupal: Sara Corvalan, Guillermo Ondarza, Romina Velasco
+Continuando con su proyecto, desarrolle toda la lógica necesaria para crear tres tipos de usuarios de su
+aplicación con permisos diferenciados. Reflexionen sobre los permisos que debe tener cada usuario y
+justifiquen su decisión. Cada grupo debe tener al menos cuatro permisos.
+Elabore una pequeña guía donde identifique los pasos requeridos para crear usuarios de forma
+dinámica, sin utilizar la página de administración de django.
 
 Como se aprecia, creamos 3 grupos:
 •	grupo6
